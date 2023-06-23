@@ -43,9 +43,10 @@
 `$ python3 scraper.py`
 
 - ( members.csv is default if you changed name use it )
-- Send Bulk sms To Collected Data
 
-`$ python3 smsbot.py members.csv`
+`$ python3 add2group.py members.csv`
+
+- ( it is adviced to use IDs since they work the best)
 
 - Update Tool
 
